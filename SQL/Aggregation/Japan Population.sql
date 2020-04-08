@@ -1,0 +1,4 @@
+-- github.com/balajisomasale
+
+SELECT SUM(POPULATION) FROM CITY
+WHERE COUNTRYCODE = 'JPN';
