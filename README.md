@@ -1,3 +1,3 @@
 # Hacker-Rank
-Solutions of My HackerRank Questions
+Solutions of My HackerRank Questions ||
 provided References.
